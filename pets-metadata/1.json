@@ -1,0 +1,23 @@
+{
+  "name": "Blue",
+  "description": "Fun collection of my pets",
+  "image": "ipfs://QmRhVnowGpAqZKYa4NYC2mk3hFs6xf516amWzc9uTaysM2/1.jpg",
+  "dna": "879cd656d25047288140ba3940b0fbd11326a658",
+  "edition": 1,
+  "date": 1650140680281,
+  "attributes": [
+    {
+      "trait_type": "Species",
+      "value": "Bearded Dragon"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Majestic"
+    }
+  ],
+  "compiler": "NFT Foundry"
+}

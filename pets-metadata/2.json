@@ -1,0 +1,23 @@
+{
+  "name": "Lucifer",
+  "description": "Fun collection of my pets",
+  "image": "ipfs://QmRhVnowGpAqZKYa4NYC2mk3hFs6xf516amWzc9uTaysM2/2.jpg",
+  "dna": "3eda2fa43c52b991c6c8ff01743c3420434f6620",
+  "edition": 2,
+  "date": 1650140601682,
+  "attributes": [
+    {
+      "trait_type": "Species",
+      "value": "Bearded Dragon"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Sleepy"
+    }
+  ],
+  "compiler": "NFT Foundry"
+}

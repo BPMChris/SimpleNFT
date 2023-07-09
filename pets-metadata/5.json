@@ -1,0 +1,23 @@
+{
+  "name": "Bean",
+  "description": "Fun collection of my pets",
+  "image": "ipfs://QmRhVnowGpAqZKYa4NYC2mk3hFs6xf516amWzc9uTaysM2/5.jpg",
+  "dna": "2aa5103cf981375a9b06c134800cdc07972cef84",
+  "edition": 3,
+  "date": 1650140522593,
+  "attributes": [
+    {
+      "trait_type": "Species",
+      "value": "Aussie Doodle"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Black/Tan"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Halloween"
+    }
+  ],
+  "compiler": "NFT Foundry"
+}
